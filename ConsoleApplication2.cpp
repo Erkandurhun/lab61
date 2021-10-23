@@ -4,7 +4,7 @@
 #include <iostream>
 #include "windows.h"
 FHJFFHB
-using namespace std;роатоаолаль
+using namespace std
 int main()
 {
 	SetConsoleCP(1251);
